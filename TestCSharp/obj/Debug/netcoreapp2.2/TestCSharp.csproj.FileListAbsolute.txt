@@ -1,0 +1,11 @@
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\bin\Debug\netcoreapp2.2\TestCSharp.deps.json
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\bin\Debug\netcoreapp2.2\TestCSharp.runtimeconfig.json
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\bin\Debug\netcoreapp2.2\TestCSharp.runtimeconfig.dev.json
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\bin\Debug\netcoreapp2.2\TestCSharp.dll
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\bin\Debug\netcoreapp2.2\TestCSharp.pdb
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\obj\Debug\netcoreapp2.2\TestCSharp.csprojAssemblyReference.cache
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\obj\Debug\netcoreapp2.2\TestCSharp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\obj\Debug\netcoreapp2.2\TestCSharp.AssemblyInfoInputs.cache
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\obj\Debug\netcoreapp2.2\TestCSharp.AssemblyInfo.cs
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\obj\Debug\netcoreapp2.2\TestCSharp.dll
+C:\Users\DELL\RiderProjects\TestCSharp\TestCSharp\obj\Debug\netcoreapp2.2\TestCSharp.pdb
